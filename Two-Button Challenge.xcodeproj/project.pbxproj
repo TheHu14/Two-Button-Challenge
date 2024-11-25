@@ -1,0 +1,574 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		A0BA04FA2CF51C91000D7583 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A0BA04DB2CF51C90000D7583 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A0BA04E22CF51C90000D7583;
+			remoteInfo = "Two-Button Challenge";
+		};
+		A0BA05042CF51C91000D7583 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A0BA04DB2CF51C90000D7583 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A0BA04E22CF51C90000D7583;
+			remoteInfo = "Two-Button Challenge";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		A0BA04E32CF51C90000D7583 /* Two-Button Challenge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Two-Button Challenge.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A0BA04F92CF51C91000D7583 /* Two-Button ChallengeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Two-Button ChallengeTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A0BA05032CF51C91000D7583 /* Two-Button ChallengeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Two-Button ChallengeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		A0BA050B2CF51C91000D7583 /* Exceptions for "Two-Button Challenge" folder in "Two-Button Challenge" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = A0BA04E22CF51C90000D7583 /* Two-Button Challenge */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		A0BA04E52CF51C90000D7583 /* Two-Button Challenge */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				A0BA050B2CF51C91000D7583 /* Exceptions for "Two-Button Challenge" folder in "Two-Button Challenge" target */,
+			);
+			path = "Two-Button Challenge";
+			sourceTree = "<group>";
+		};
+		A0BA04FC2CF51C91000D7583 /* Two-Button ChallengeTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Two-Button ChallengeTests";
+			sourceTree = "<group>";
+		};
+		A0BA05062CF51C91000D7583 /* Two-Button ChallengeUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Two-Button ChallengeUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A0BA04E02CF51C90000D7583 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A0BA04F62CF51C91000D7583 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A0BA05002CF51C91000D7583 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A0BA04DA2CF51C90000D7583 = {
+			isa = PBXGroup;
+			children = (
+				A0BA04E52CF51C90000D7583 /* Two-Button Challenge */,
+				A0BA04FC2CF51C91000D7583 /* Two-Button ChallengeTests */,
+				A0BA05062CF51C91000D7583 /* Two-Button ChallengeUITests */,
+				A0BA04E42CF51C90000D7583 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A0BA04E42CF51C90000D7583 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A0BA04E32CF51C90000D7583 /* Two-Button Challenge.app */,
+				A0BA04F92CF51C91000D7583 /* Two-Button ChallengeTests.xctest */,
+				A0BA05032CF51C91000D7583 /* Two-Button ChallengeUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A0BA04E22CF51C90000D7583 /* Two-Button Challenge */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A0BA050C2CF51C91000D7583 /* Build configuration list for PBXNativeTarget "Two-Button Challenge" */;
+			buildPhases = (
+				A0BA04DF2CF51C90000D7583 /* Sources */,
+				A0BA04E02CF51C90000D7583 /* Frameworks */,
+				A0BA04E12CF51C90000D7583 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				A0BA04E52CF51C90000D7583 /* Two-Button Challenge */,
+			);
+			name = "Two-Button Challenge";
+			packageProductDependencies = (
+			);
+			productName = "Two-Button Challenge";
+			productReference = A0BA04E32CF51C90000D7583 /* Two-Button Challenge.app */;
+			productType = "com.apple.product-type.application";
+		};
+		A0BA04F82CF51C91000D7583 /* Two-Button ChallengeTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A0BA05112CF51C91000D7583 /* Build configuration list for PBXNativeTarget "Two-Button ChallengeTests" */;
+			buildPhases = (
+				A0BA04F52CF51C91000D7583 /* Sources */,
+				A0BA04F62CF51C91000D7583 /* Frameworks */,
+				A0BA04F72CF51C91000D7583 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A0BA04FB2CF51C91000D7583 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				A0BA04FC2CF51C91000D7583 /* Two-Button ChallengeTests */,
+			);
+			name = "Two-Button ChallengeTests";
+			packageProductDependencies = (
+			);
+			productName = "Two-Button ChallengeTests";
+			productReference = A0BA04F92CF51C91000D7583 /* Two-Button ChallengeTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		A0BA05022CF51C91000D7583 /* Two-Button ChallengeUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A0BA05142CF51C91000D7583 /* Build configuration list for PBXNativeTarget "Two-Button ChallengeUITests" */;
+			buildPhases = (
+				A0BA04FF2CF51C91000D7583 /* Sources */,
+				A0BA05002CF51C91000D7583 /* Frameworks */,
+				A0BA05012CF51C91000D7583 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A0BA05052CF51C91000D7583 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				A0BA05062CF51C91000D7583 /* Two-Button ChallengeUITests */,
+			);
+			name = "Two-Button ChallengeUITests";
+			packageProductDependencies = (
+			);
+			productName = "Two-Button ChallengeUITests";
+			productReference = A0BA05032CF51C91000D7583 /* Two-Button ChallengeUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A0BA04DB2CF51C90000D7583 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1610;
+				LastUpgradeCheck = 1610;
+				TargetAttributes = {
+					A0BA04E22CF51C90000D7583 = {
+						CreatedOnToolsVersion = 16.1;
+					};
+					A0BA04F82CF51C91000D7583 = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = A0BA04E22CF51C90000D7583;
+					};
+					A0BA05022CF51C91000D7583 = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = A0BA04E22CF51C90000D7583;
+					};
+				};
+			};
+			buildConfigurationList = A0BA04DE2CF51C90000D7583 /* Build configuration list for PBXProject "Two-Button Challenge" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A0BA04DA2CF51C90000D7583;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = A0BA04E42CF51C90000D7583 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A0BA04E22CF51C90000D7583 /* Two-Button Challenge */,
+				A0BA04F82CF51C91000D7583 /* Two-Button ChallengeTests */,
+				A0BA05022CF51C91000D7583 /* Two-Button ChallengeUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A0BA04E12CF51C90000D7583 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A0BA04F72CF51C91000D7583 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A0BA05012CF51C91000D7583 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A0BA04DF2CF51C90000D7583 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A0BA04F52CF51C91000D7583 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A0BA04FF2CF51C91000D7583 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A0BA04FB2CF51C91000D7583 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A0BA04E22CF51C90000D7583 /* Two-Button Challenge */;
+			targetProxy = A0BA04FA2CF51C91000D7583 /* PBXContainerItemProxy */;
+		};
+		A0BA05052CF51C91000D7583 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A0BA04E22CF51C90000D7583 /* Two-Button Challenge */;
+			targetProxy = A0BA05042CF51C91000D7583 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		A0BA050D2CF51C91000D7583 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = HZ5CA5A584;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Two-Button Challenge/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "TheHu.Two-Button-Challenge";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A0BA050E2CF51C91000D7583 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = HZ5CA5A584;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Two-Button Challenge/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "TheHu.Two-Button-Challenge";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		A0BA050F2CF51C91000D7583 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A0BA05102CF51C91000D7583 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A0BA05122CF51C91000D7583 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = HZ5CA5A584;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "TheHu.Two-Button-ChallengeTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Two-Button Challenge.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Two-Button Challenge";
+			};
+			name = Debug;
+		};
+		A0BA05132CF51C91000D7583 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = HZ5CA5A584;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "TheHu.Two-Button-ChallengeTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Two-Button Challenge.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Two-Button Challenge";
+			};
+			name = Release;
+		};
+		A0BA05152CF51C91000D7583 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = HZ5CA5A584;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "TheHu.Two-Button-ChallengeUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Two-Button Challenge";
+			};
+			name = Debug;
+		};
+		A0BA05162CF51C91000D7583 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = HZ5CA5A584;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "TheHu.Two-Button-ChallengeUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Two-Button Challenge";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A0BA04DE2CF51C90000D7583 /* Build configuration list for PBXProject "Two-Button Challenge" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A0BA050F2CF51C91000D7583 /* Debug */,
+				A0BA05102CF51C91000D7583 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A0BA050C2CF51C91000D7583 /* Build configuration list for PBXNativeTarget "Two-Button Challenge" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A0BA050D2CF51C91000D7583 /* Debug */,
+				A0BA050E2CF51C91000D7583 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A0BA05112CF51C91000D7583 /* Build configuration list for PBXNativeTarget "Two-Button ChallengeTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A0BA05122CF51C91000D7583 /* Debug */,
+				A0BA05132CF51C91000D7583 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A0BA05142CF51C91000D7583 /* Build configuration list for PBXNativeTarget "Two-Button ChallengeUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A0BA05152CF51C91000D7583 /* Debug */,
+				A0BA05162CF51C91000D7583 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A0BA04DB2CF51C90000D7583 /* Project object */;
+}
